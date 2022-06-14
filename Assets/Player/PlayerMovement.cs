@@ -65,7 +65,7 @@ public class PlayerMovement : MonoBehaviour
             Rotation(_moveInput);
             Move(_moveInput);
         }
-        
+
     }
     private void Move(Vector2 input)
     {
